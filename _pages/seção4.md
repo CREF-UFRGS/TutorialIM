@@ -149,8 +149,8 @@ estoque e coloque o número inicial de <span style="font-family: Comic Sans MS">
 {: .text-justify}
  
 
-[<i class="fas fa-arrow-alt-circle-left"></i> Seção 3 ](https://milenalauschner.github.io/TutorialIM/secao3/){:
-.btn .btn--warning} [ Seção 5 <i class="fas fa-arrow-alt-circle-right"></i>](https://milenalauschner.github.io/TutorialIM/secao5/){:
+[<i class="fas fa-arrow-alt-circle-left"></i> Seção 3 ](https://CREF-UFRGS.github.io/TutorialIM/secao3/){:
+.btn .btn--warning} [ Seção 5 <i class="fas fa-arrow-alt-circle-right"></i>](https://CREF-UFRGS.github.io/TutorialIM/secao5/){:
 .btn .btn--info}
  {: .text-right}
 ________________________________________________________________________________________________________________________________________________________________________________________________ 
