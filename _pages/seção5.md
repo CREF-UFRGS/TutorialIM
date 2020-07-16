@@ -123,8 +123,8 @@ Agora é só validar a criação clicando em _Apply_. Esses passos estão sintet
 {: .text-left}
  
  
-[<i class="fas fa-arrow-alt-circle-left"></i> Seção 4](https://milenalauschner.github.io/TutorialIM/secao4/){:
-.btn .btn--danger} [ Seção 6 <i class="fas fa-arrow-alt-circle-right"></i>](https://milenalauschner.github.io/TutorialIM/secao6/){:
+[<i class="fas fa-arrow-alt-circle-left"></i> Seção 4](https://CREF-UFRGS.github.io/TutorialIM/secao4/){:
+.btn .btn--danger} [ Seção 6 <i class="fas fa-arrow-alt-circle-right"></i>](https://CREF-UFRGS.github.io/TutorialIM/secao6/){:
 .btn .btn--facebook}
  {: .text-right}
 ________________________________________________________________________________________________________________________________________________________________________________________________
