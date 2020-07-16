@@ -4,19 +4,19 @@ insightmaker:
     - title: "Sumário"
       children:
         - title: "1 Sobre o Insight Maker"
-          url: https://milenalauschner.github.io/TutorialIM/
+          url: https://CREF-UFRGS.github.io/TutorialIM/
         - title: "2 Introdução ao uso do Insight Maker"
-          url: https://milenalauschner.github.io/TutorialIM/secao2/
+          url: https://CREF-UFRGS.github.io/TutorialIM/secao2/
         - title: "3 Lógica de funcionamento do software"
-          url: https://milenalauschner.github.io/TutorialIM/secao3/
+          url: https://CREF-UFRGS.github.io/TutorialIM/secao3/
         - title: "4 Instruções para construir o seu modelo no Insight Maker"
-          url: https://milenalauschner.github.io/TutorialIM/secao4/
+          url: https://CREF-UFRGS.github.io/TutorialIM/secao4/
         - title: "5 Algoritmo de análise"
-          url: https://milenalauschner.github.io/TutorialIM/secao5/  
+          url: https://CREF-UFRGS.github.io/TutorialIM/secao5/  
         - title: "6 Considerações finais"
-          url: https://milenalauschner.github.io/TutorialIM/secao6/ 
+          url: https://CREF-UFRGS.github.io/TutorialIM/secao6/ 
         - title: "7 Versão PDF do Tutorial"
-          url: https://milenalauschner.github.io/TutorialIM/assets/Tutorial_para_o_uso_do_software_Insight_Maker.pdf
+          url: https://CREF-UFRGS.github.io/TutorialIM/assets/Tutorial_para_o_uso_do_software_Insight_Maker.pdf
         
 
 
