@@ -29,7 +29,7 @@ Ensino de Física 17, 81.<br />
 <a href="https://periodicos.ufsc.br/index.php/fisica/article/download/6787/6252">https://periodicos.ufsc.br/index.php/fisica/article/download/6787/6252</a>
 {: .text-left}
 
-[ Seção 2 <i class="fas fa-arrow-alt-circle-right"></i>](https://milenalauschner.github.io/TutorialIM/secao2/){:
+[ Seção 2 <i class="fas fa-arrow-alt-circle-right"></i>](https://CREF-UFRGS.github.io/TutorialIM/secao2/){:
 .btn .btn--success}
  {: .text-right} 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
