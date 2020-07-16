@@ -17,7 +17,7 @@ mathjax: true
 O _Insight Maker_ usa comandos no idioma inglês. Então, estoque é designado por _stock_ e fluxo por _flow_. Vamos traduzir na primeira vez em que a palavra inglesa for usada e depois usaremos indistintamente em português ou inglês.
 {: .text-justify}
 
-Na Figura 1.1 da <a href="https://milenalauschner.github.io/MM/secao2/">Seção 2</a> vê-se o que se chama de diagrama _stock-flow_. Um diagrama _stock-flow_  mostra uma parte da realidade que se pretende investigar através da criação de um sistema com componentes interligadas. No _Insight Maker_ essas componentes são chamadas de _primitives_ - em português primitivas. Uma das razões para que esses diagramas sejam tão úteis na construção da
+Na Figura 1.1 da <a href="https://CREF-UFRGS.github.io/MM/secao2/">Seção 2</a> vê-se o que se chama de diagrama _stock-flow_. Um diagrama _stock-flow_  mostra uma parte da realidade que se pretende investigar através da criação de um sistema com componentes interligadas. No _Insight Maker_ essas componentes são chamadas de _primitives_ - em português primitivas. Uma das razões para que esses diagramas sejam tão úteis na construção da
 aprendizagem é que conseguimos visualizar como uma primitiva individual impacta no coletivo do
 sistema, por exemplo, como cada fluxo impacta no nível da acumulação que ocorre no estoque.
 {: .text-justify}
